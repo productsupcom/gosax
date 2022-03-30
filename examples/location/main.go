@@ -13,7 +13,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/eliben/gosax"
+	"github.com/productsupcom/gosax"
 )
 
 var cpuprofile = flag.String("cpuprofile", "", "write cpu profile to file")

@@ -13,7 +13,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/eliben/gosax/pointer"
+	"github.com/productsupcom/gosax/pointer"
 )
 
 /*

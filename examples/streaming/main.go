@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/eliben/gosax"
+	"github.com/productsupcom/gosax"
 )
 
 func main() {

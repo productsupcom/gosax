@@ -1,3 +1,3 @@
-module github.com/eliben/gosax
+module github.com/productsupcom/gosax
 
 go 1.12
